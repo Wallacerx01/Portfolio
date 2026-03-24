@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export function Hero2() {
   return (
-    <div id="inicio" className="relative flex justify-center items-center">
+    <div id="inicio" className="relative flex justify-center items-center ">
       {/* Glow */}
       <div className="absolute w-80 h-80 bg-blue-500 blur-3xl opacity-20 rounded-full"></div>
 

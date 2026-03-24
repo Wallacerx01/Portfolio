@@ -14,7 +14,7 @@ export default function Home() {
     [background-size:30px_30px]"
       ></div>
 
-      <section className="w-full h-screen grid grid-cols-1 lg:grid-cols-2 lg:px-25 mt-30 lg:mt-10">
+      <section className="w-full min-h-screen grid grid-cols-1 lg:grid-cols-2 lg:px-25 pt-20 lg:pt-10">
         <div className="flex items-center justify-center">
           <Hero />
         </div>
