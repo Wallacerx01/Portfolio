@@ -5,7 +5,7 @@ import { Drawer } from "@/components/drawer";
 
 export function Header() {
   return (
-    <header className="fixed w-full border-b border-[#D9D9D940] z-10 bg-[#111111]">
+    <header className="fixed w-full border-b border-[#D9D9D940] z-10 bg-[#111111] px-4">
       <div className="w-full max-w-7xl flex items-center justify-between mx-auto">
         <Link href="/">
           <Image
